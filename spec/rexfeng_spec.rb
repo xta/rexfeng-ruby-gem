@@ -36,4 +36,8 @@ describe "Rexfeng" do
     rex.linkedin.should eql("http://www.linkedin.com/in/rexfeng")
   end
 
+  it "should return its battletag" do
+    rex.battletag.should eql("xta#1935")
+  end
+
 end

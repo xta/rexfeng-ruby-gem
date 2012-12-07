@@ -32,4 +32,8 @@ class Rexfeng
     "http://www.linkedin.com/in/rexfeng"
   end
 
+  def battletag
+    "xta#1935"
+  end
+
 end
