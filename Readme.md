@@ -1,8 +1,8 @@
 # rexfeng ruby gem
-## get contact info for Rex Feng
-### based on http://guides.rubygems.org/make-your-own-gem/
+### Get contact info for Rex Feng
+### Based on http://guides.rubygems.org/make-your-own-gem/
 
-[On rubygems](https://rubygems.org/gems/rexfeng)
+[View on rubygems](https://rubygems.org/gems/rexfeng)
 
 # Installation
     gem install rexfeng
@@ -13,3 +13,15 @@
     rex = Rexfeng.new
     rex.name #=> "Rex Feng"
     rex.github #=> "https://github.com/xta"
+
+# Available Methods
+
+  * name
+  * email
+  * website
+  * blog
+  * github
+  * twitter
+  * facebook
+  * linkedin
+  * battletag
