@@ -1,8 +1,6 @@
-# rexfeng ruby gem
-### Get contact info for Rex Feng
-### Based on http://guides.rubygems.org/make-your-own-gem/
+# rexfeng ruby gem (0.0.2)
 
-[View on rubygems](https://rubygems.org/gems/rexfeng)
+Contact info Ruby Gem for Rex Feng
 
 # Installation
     gem install rexfeng
@@ -25,3 +23,8 @@
   * facebook
   * linkedin
   * battletag
+
+# Thanks to Rubygems
+
+Based on [Rubygems](https://rubygems.org/gems/rexfeng) [guide](http://guides.rubygems.org/make-your-own-gem/)
+
