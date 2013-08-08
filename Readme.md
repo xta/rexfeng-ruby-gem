@@ -1,4 +1,4 @@
-# rexfeng ruby gem (0.0.2)
+# rexfeng ruby gem (1.0.0)
 
 Contact info Ruby Gem for Rex Feng
 
