@@ -6,7 +6,7 @@ require 'rexfeng/version'
 Gem::Specification.new do |spec|
   spec.name          = 'rexfeng'
   spec.version       = Rexfeng::VERSION
-  spec.date          = '2013-08-07'
+  spec.date          = '2014-02-08'
   spec.authors       = ['Rex Feng']
   spec.email         = ['rexfeng@gmail.com']
   spec.description   = 'contact info links for Rex Feng'

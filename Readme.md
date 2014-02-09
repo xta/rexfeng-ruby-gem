@@ -1,17 +1,17 @@
-# rexfeng ruby gem (1.0.0)
+# rexfeng ruby gem (1.0.1)
 
 Contact info Ruby Gem for Rex Feng
 
 # Installation
     gem install rexfeng
 
-# Usage
+# Example Usage
     require 'rexfeng'
 
     Rexfeng.name    #=> 'Rex Feng'
     Rexfeng.github  #=> 'https://github.com/xta'
 
-# Available Methods
+# API Endpoints
 
   * name
   * email
@@ -22,4 +22,4 @@ Contact info Ruby Gem for Rex Feng
   * facebook
   * linkedin
   * battletag
-
+  * steam_id

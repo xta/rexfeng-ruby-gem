@@ -1,39 +1,45 @@
 module Rexfeng
 
-  def self.name
+  extend self
+
+  def name
     "Rex Feng"
   end
 
-  def self.email
+  def email
     "rexfeng@gmail.com"
   end
 
-  def self.website
+  def website
     "http://rexfeng.com/"
   end
 
-  def self.blog
+  def blog
     "http://www.rexfeng.com/blog/"
   end
 
-  def self.github
+  def github
     "https://github.com/xta"
   end
 
-  def self.twitter
+  def twitter
     "https://twitter.com/#!/rexfeng"
   end
 
-  def self.facebook
+  def facebook
     "https://www.facebook.com/rexfeng"
   end
 
-  def self.linkedin
+  def linkedin
     "http://www.linkedin.com/in/rexfeng"
   end
 
-  def self.battletag
+  def battletag
     "xta#1935"
+  end
+
+  def steam_id
+    76561197990236670
   end
 
 end
