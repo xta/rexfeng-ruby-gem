@@ -1,4 +1,4 @@
-# rexfeng ruby gem (1.0.1)
+# rexfeng ruby gem (1.0.2)
 
 Contact info Ruby Gem for Rex Feng
 
@@ -23,3 +23,4 @@ Contact info Ruby Gem for Rex Feng
   * linkedin
   * battletag
   * steam_id
+  * origin_id

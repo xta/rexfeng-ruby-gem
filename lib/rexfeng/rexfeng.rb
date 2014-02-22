@@ -42,4 +42,8 @@ module Rexfeng
     76561197990236670
   end
 
+  def origin_id
+    "xtaxta"
+  end
+
 end
